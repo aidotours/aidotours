@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aidotours
+- 👋 Hi, I’m @aidotours - Adrian O'Brien
 - 👀 I’m interested in wildlife
 - 🌱 I’m currently learning nothing. I finsihed learning python and am now unable to do very much with it. I am practicing. 
 - 💞️ I’m looking to collaborate on anything that needs a genius who knows nothing
